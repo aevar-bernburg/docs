@@ -5,7 +5,7 @@
   "colors": {
     "primary": "#5a473e",
     "light": "#a38977",
-    "dark": "#15803D"
+    "dark": "#5a473e"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -68,8 +68,8 @@
           "icon": "slack"
         },
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "anchor": "Changelog",
+          "href": "https://www.furnituredb.net/changelog",
           "icon": "newspaper"
         }
       ]
